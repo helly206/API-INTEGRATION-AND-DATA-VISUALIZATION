@@ -41,3 +41,7 @@ streamlit run weather_dashboard.py
 How to use APIs
 Building a simple app using Streamlit
 Showing data with charts and custom styles
+
+***OUTPUT***
+
+![Image](https://github.com/user-attachments/assets/f2df455c-0b58-4f62-84df-46d46565e459)
